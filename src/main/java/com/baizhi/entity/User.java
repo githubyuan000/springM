@@ -2,7 +2,8 @@ package com.baizhi.entity;
 
 import java.io.Serializable;
 /*
-在远程仓库上进行的修改
+在远程仓库上进行的修改,
+在本地仓库进行的修改  v2
 */
 public class User implements Serializable {
     private Integer id;
